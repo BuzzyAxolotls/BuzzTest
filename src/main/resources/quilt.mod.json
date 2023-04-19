@@ -1,12 +1,12 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
+		"group": "io.github.BuzzyBumbleBees",
 		"id": "example_mod",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
-			"description": "A short description of your mod.",
+			"name": "Buzz Test",
+			"description": "i have zero clue what i am doing please help.",
 			"contributors": {
 				"Your name here": "Buzzy"
 			},
